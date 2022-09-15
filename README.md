@@ -5,6 +5,8 @@ The overview of the project was to take a set of data on UFOs sitings and conver
 ## Results
 The final result is a webpage where Dana can easily use the filter bar to sort through the dynamic table we created displaying the ufo sitings data.
 
+![Image](https://github.com/PeterAlesio/UFOs/blob/main/UFOs/static/images/final.png)
+
 ## Summary
 One drawback of this website is that the data is not connected to a live updating source which means that the webpage will become outdated and no longer relavant within a couple of years.
 
